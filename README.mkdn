@@ -20,7 +20,8 @@ Patching
 
 Use the files from the `Patch` repository on GitHub and patch the respective folders.
 
-Search on how to apply a patch file.
+* Giai nen file patch , vao thu muc theo duong dan sau patch/frameworks/native/mutildisplay.patch copy vao thu muc CM13/frameworks/native
+* Code : patch -p1 < filename.patch
 
 Building
 --------
