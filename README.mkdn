@@ -7,7 +7,8 @@ Getting Started
 To get started with Android/CyanogenMod, you'll need to get
 familiar with [Git and Repo]
 
-Code: sudo wget https://storage.googleapis.com/git-repo-downloads/repo -O/usr/bin/repo
+Code: 
+      sudo wget https://storage.googleapis.com/git-repo-downloads/repo -O/usr/bin/repo
 
       sudo chmod +x /usr/bin/repo
 
